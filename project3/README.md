@@ -1,4 +1,8 @@
-﻿# SQL DDL with Data Manipulation
+<p align="center">
+<img alt="image" src="project-3.png"/>
+</p>
+ 
+ # SQL DDL with Data Manipulation
 ## Table of Contents
 - [Overview](#overview)
 - [Breakdown](#breakdown)
